@@ -2,3 +2,6 @@ node_modules/
 *.env.production
 *.log
 is-a-dev-cert/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
